@@ -876,6 +876,7 @@
 /* Begin XCBuildConfiguration section */
 		07CBD7ED22B8570400732884 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 5490FCCC0AF772BC216A696D /* Pods-MapboxAnnotationExtension.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				CLANG_ANALYZER_NONNULL = YES;
